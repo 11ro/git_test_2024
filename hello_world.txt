@@ -1,0 +1,4 @@
+Hello world! 
+My name is Jonas and this is the start of my programming journey.
+Let's see what the future has for me after this.
+See you in 5 years!
